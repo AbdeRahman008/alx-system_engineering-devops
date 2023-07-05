@@ -1,3 +1,0 @@
-#!/bin/bash
-mv /path/to/source/file /path/to/destination/directory/
-
